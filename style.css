@@ -2,7 +2,7 @@
    1. ZMIENNE I PODSTAWY
 ========================================= */
 :root {
-    --primary-color: #d94f2e;
+    --primary-color: #070341;
     --nav-bg: #e5e5e5;
     --body-bg: #ffffff;
     --text-dark: #333333;
@@ -110,12 +110,12 @@ body {
 }
 
 .hero-text h2 {
-    color: var(--primary-color);
+    color: #070341;
     font-size: 1.2rem;
     margin-bottom: 15px;
     margin-top: 25px;
     display: inline-block;
-    border-bottom: 2px solid var(--primary-color);
+    border-bottom: 2px solid #070341;
     padding-bottom: 4px;
 }
 
@@ -132,7 +132,7 @@ body {
 .btn-reel {
     background-color: transparent;
     border: 2px solid var(--primary-color);
-    color: var(--primary-color);
+    color: #070341;
     padding: 10px 25px;
     font-weight: 600;
     cursor: pointer;
@@ -152,7 +152,7 @@ body {
 .btn-useme-small {
     margin-top: 10px;
     padding: 8px 15px;
-    border: 1px solid var(--primary-color);
+    border: 1px solid #070341;
     color: var(--primary-color) !important;
     font-size: 0.7rem !important;
     text-align: center;
