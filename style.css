@@ -1,3 +1,17 @@
+* {
+    font-family: 'Montserrat', sans-serif;
+}
+
+/* Opcjonalnie: Możesz nadać różne grubości dla nagłówka i tekstu */
+h1, h2, h3 {
+    font-weight: 700; /* Gruby napis dla nagłówków */
+    text-transform: uppercase; /* Montserrat świetnie wygląda dużymi literami */
+}
+
+p {
+    font-weight: 400; /* Standardowa grubość dla tekstu */
+}
+
 /* =========================================
    1. ZMIENNE I PODSTAWY
 ========================================= */
