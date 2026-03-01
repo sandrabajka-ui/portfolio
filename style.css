@@ -43,7 +43,7 @@ body {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    padding: 2.5rem 10%;
+    padding: 2.5rem 80px;
     background-color: var(--nav-bg);
     border-bottom: 1px solid #d1d1d1;
 }
